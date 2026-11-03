@@ -4,4 +4,4 @@
 // "https://app.example.ru/teacher.html". Относительный путь — файл в этом репозитории.
 // ВРЕМЕННО: туннель на локальный сервер Фёдора (Cloudflare quick tunnel), пока нет своего сервера (#25).
 // Адрес живёт, пока запущен cloudflared. Вернуть "check.html", когда туннель закрыт
-window.APP_URL = "https://carriers-suits-mono-parker.trycloudflare.com/";
+window.APP_URL = "https://courses-save-van-newton.trycloudflare.com/";
